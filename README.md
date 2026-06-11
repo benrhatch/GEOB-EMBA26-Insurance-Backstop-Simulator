@@ -4,6 +4,9 @@ Live market simulator for a Kalshi-style macro bet on Canadian catastrophe insur
 # Canada's Insurance Time Bomb
 ### Live Market Simulator
 
+**[▶ Open the live simulator](https://benrhatch.github.io/GEOB-EMBA26-Insurance-Backstop-Simulator/)**
+
+![Simulator screenshot](screenshot.png)
 ---
 
 ## Overview
