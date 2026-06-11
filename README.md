@@ -31,12 +31,6 @@ The trade is **NO** — betting against Canadian legislative throughput on a fil
 
 **Trade:** Buy NO at 60¢. Target settlement at $1.00. Expected value: **+20¢ per contract** (33% expected return on stake).
 
-The 20% view is triangulated from three independent methods:
-
-- **Canadian financial sector base rate** — historical frequency of "intention to consult" announcements becoming enacted legislation within 24 months: 15-20%
-- **Decision tree compound probability** — four sequential legislative gates (response published × cabinet approval × bill tabled × Royal Assent), each below 70%, compounding to ~11%
-- **International reference class** — preemptive catastrophe insurance backstops in developed countries: 8-15% within a 2-year window absent a triggering disaster
-
 ## Using the Simulator
 
 The simulator has two modes:
